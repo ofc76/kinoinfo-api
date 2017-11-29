@@ -156,7 +156,7 @@ KINOHOD_APIKEY_CLIENT = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'
 
 RAMBLER_TICKET_KEY = 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'
 
-LINKEXCHANGE_CONFIG = rel('sape/linkexchange.cfg')
+LINKEXCHANGE_CONFIG = rel('xxxx/xxxxxxxxxxxx.xxx')
 
 SESSION_COOKIE_AGE = 7776000
 SESSION_COOKIE_DOMAIN = '.kinoinfo.ru'
